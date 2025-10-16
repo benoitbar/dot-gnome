@@ -1,4 +1,4 @@
-#Dotfiler Gnome config
+# Dotfiler Gnome config
 
 This repository contains Gnome config.
 It's purpose to be used as a repository for [dotfiler][].
